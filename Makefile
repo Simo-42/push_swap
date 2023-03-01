@@ -6,7 +6,7 @@
 #    By: mhajji-b <mhajji-b@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/10/11 21:19:28 by ncolomer          #+#    #+#              #
-#    Updated: 2023/02/25 18:07:03 by mhajji-b         ###   ########.fr        #
+#    Updated: 2023/03/01 10:15:45 by mhajji-b         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,9 +16,9 @@ SRC =   ft_sort_int_tab.c \
 		parsing.c \
 		parsing_2.c \
 		pretri.c \
-		Move.c \
-		BIGTRI.c \
-		Move_bigtri.c \
+		move.c \
+		bigtri.c \
+		move_bigtri.c \
 		push_swap.c \
 		free_function.c \
 		
